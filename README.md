@@ -41,7 +41,7 @@ After all this was done, I recreated the project with SDK.
 ![](/screenshots/SDK_rundetails_widget.png)
 
 ## Screen Recording
-My screen recording of the project can be found here: [](https://youtu.be/IFRC-Co59mY)
+My screen recording of the project can be found [here on Youtube](https://youtu.be/IFRC-Co59mY)
 
 ## Future Improvements for the project
 The time limitation in this project left me very little time to go over the actual data and, while the same data was used in the previous project, this is one area
