@@ -75,10 +75,9 @@ And created two pipelines as seen in image below.
 ## Screen Recording
 My screen recording of the project can be found [here on Youtube](https://youtu.be/IFRC-Co59mY)
 
-The video does not, unfortunately, show the pipeline endpoint section, so this screenshot shows that.
-![](/screencasts/Both_pipelines.png)
+The video does not, unfortunately, show the pipeline endpoint section, so the screenshot above shows that.
 
-also please check my first take video containing the endpoint more clearly. It missed the audio, so I had to rush the second video a bit. The first video
+Also please check my first take video containing the endpoint more clearly. It missed the audio, so I had to rush the second video a bit. The first video
 can be found [here on Youtube](https://youtu.be/WeSCx7MXDtc)
 
 ## Future Improvements for the project
