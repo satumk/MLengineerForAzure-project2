@@ -67,10 +67,10 @@ I had enabled the runDetails widget.
 ![](/screenshots/SDK_rundetails_widget.png)
 
 All in all I did three experiments including exploring the dataset.
-![](/screencasts/all_experiments.png)
+![](/screenshots/all_experiments.png)
 
 And created two pipelines as seen in image below.
-![](/screencasts/Both_pipelines.png)
+![](/screenshots/Both_pipelines.png)
 
 ## Screen Recording
 My screen recording of the project can be found [here on Youtube](https://youtu.be/IFRC-Co59mY)
