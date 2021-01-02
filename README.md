@@ -81,7 +81,7 @@ And created two pipelines as seen in image below.
 ## Screen Recording
 My screen recording of the first version, the version that the screenshots are from, of the project can be found [here on Youtube](https://youtu.be/IFRC-Co59mY)
 It does not show the pipelines-section in Azure, so I redid the project and carefully went over all aspects in Azure.
-The final version of the screencast can be found [here on Youtube](https://youtu.be/IFRC-Co59mY)
+The final version of the screencast can be found [here on Youtube](https://youtu.be/53tJW0102KE)
 
 ## Future Improvements for the project
 The time limitation in this project left me very little time to go over the actual data and, while the same data was used in the previous project, this is one area
